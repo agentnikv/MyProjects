@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>To Do List</title>
+</head>
+<body>
+<h1>Todo List</h1>
+<ul>
+	<li>"new" - Add A Todo</li>
+	<li>"list" - View All Todos</li>
+	<li>"quit" - Quit App</li>
+</ul>
+</body>
+</html>
